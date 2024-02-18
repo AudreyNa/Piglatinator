@@ -1,2 +1,2 @@
 # Piglatinator
-turns any sentence into piglatin
+turns any sentence into pig latin
